@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">FingerPrintAuthentication</string>
+    <string name="app_name">FingerPrint Auth</string>
+    <string name="place_finger">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="fingerprint_at_least_one">Note: Your device should have at least one fingerprint registered in device settings</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="authentication_is_successful">Authentication is Successful</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+    <string name="does_not_have_sensor">Device does not have a Fingerprint Sensor</string>
+    <string name="fingerprint_not_enabled">Fingerprint permission is not enabled</string>
+    <string name="at_least_one_fingerprint">You need at least one registered fingerprint in the Device Settings</string>
+    <string name="lock_screen_should_be_enabled">Lock screen security should be enabled in the Device Settings</string>
+
 </resources>
